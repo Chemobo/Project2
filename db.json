@@ -1,0 +1,80 @@
+{
+  "cars": [
+    {
+      "id": 12,
+      "make": "audi",
+      "model": "a3",
+      "price": 42050,
+      "img_url": "https://www.avtotachki.com/wp-content/uploads/2020/11/audi-a3-sportback-2016-1.jpg"
+    },
+    {
+      "id": 34,
+      "make": "bmw",
+      "model": "2-series",
+      "price": 38650,
+      "img_url": "https://cars.usnews.com/static/images/Auto/izmo/i2314395/2016_bmw_2_series_angularfront.jpg"
+    },
+    {
+      "id": 65,
+      "make": "bentley",
+      "model": "continental-gt",
+      "price": 187900,
+      "img_url": "https://cloud.leparking.fr/2021/06/25/02/05/bentley-continental-gt-2016-bentley-continental-gt-speed-grey_8177078429.jpg"
+    },
+    {
+      "id": 71,
+      "make": "cadillac",
+      "model": "ats",
+      "price": 33215,
+      "img_url": "https://file.kelleybluebookimages.com/kbb/base/evox/CP/10742/2016-Cadillac-ATS-front_10742_032_1810x765_GA6_cropped.png"
+    },
+    {
+      "id": 88,
+      "make": "chevrolet",
+      "model": "cruze",
+      "price": 23120,
+      "img_url": "https://i.ytimg.com/vi/TdGagxOQY2o/maxresdefault.jpg"
+    },
+    {
+      "id": 116,
+      "make": "ferrari",
+      "model": "458-italia",
+      "price": 291744,
+      "img_url": "https://i.gaw.to/vehicles/photos/06/34/063479_2015_ferrari_458.jpg?1024x640"
+    },
+    {
+      "id": 225,
+      "make": "lexus",
+      "model": "nx-300h",
+      "price": 39720,
+      "img_url": "https://pictures-kenya.jijistatic.com/32602634_MTAyNC03NjgtMWZlNTdmNDg1Yg.jpg"
+    },
+    {
+      "id": 267,
+      "make": "mercedes-benz",
+      "model": "metris",
+      "price": 32500,
+      "img_url": "https://www.motortrend.com/uploads/sites/11/2020/10/Mercedes-Benz-Metris-front-view-01.jpg"
+    },
+    {
+      "id": 303,
+      "make": "porsche",
+      "model": "cayenne",
+      "price": 157300,
+      "img_url": "https://images.hgmsites.net/hug/2015-porsche-cayenne_100489085_h.jpg"
+    },
+    {
+      "id": 318,
+      "make": "rolls-royce",
+      "model": "wraith",
+      "price": 304350,
+      "img_url": "https://mercury.bid.cars/1-53863611/2016-Rolls-Royce-Wraith-SCA665C54GUX86215-1.jpg"
+    },
+    {
+      "id": 325,
+      "make": "subaru",
+      "model": "brz",
+      "price": 25395,
+      "img_url": "https://pictures.topspeed.com/IMG/crop/201506/subaru-brz-ts-sti_800x0w.jpg"
+    }
+  ]}
